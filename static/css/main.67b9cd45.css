@@ -1,0 +1,2 @@
+body,html{height:100%;margin:0}.game{align-items:center;display:flex;flex-direction:column;justify-content:center;min-height:100vh}.board{grid-gap:5px;display:grid;gap:5px;grid-template-columns:repeat(15,20px)}.square{align-items:center;border:1px solid #333;cursor:pointer;display:flex;height:20px;justify-content:center;width:20px}.X{background-color:red}.O{background-color:#0f0}
+/*# sourceMappingURL=main.67b9cd45.css.map*/
